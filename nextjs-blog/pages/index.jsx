@@ -12,7 +12,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>
+        <p className={utilStyles.aboutText}>
           Renan Pereira Biazini concluiu o mestrado em Ciência da Computação
           pela Universidade Estadual Paulista [UNESP - FCT - Presidente
           Prudente] em 2020. Atualmente é bolsista FAPESP TT-IV no projeto
