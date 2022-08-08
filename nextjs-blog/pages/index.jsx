@@ -15,18 +15,22 @@ export default function Home({ allPostsData }) {
         <p className={utilStyles.aboutText}>
           Renan Pereira Biazini concluiu o mestrado em Ciência da Computação
           pela Universidade Estadual Paulista [UNESP - FCT - Presidente
-          Prudente] em 2020. Atualmente é bolsista FAPESP TT-IV no projeto
-          Tecnologia GNSS no suporte à Navegação Aérea. Já foi programador
-          full-stack WEB, com ênfase em tecnologias da stack JavaScript (NodeJS
-          e ReactJS) em uma empresa de desenvolvimento. Tem experiência na área
-          de Ciência da Computação, com ênfase em Banco de Dados e Engenharia de
-          Software, tendo já atuado na área como Programador, incluindo
-          participação em um projeto de sistema institucional da Unesp. Sua
-          principais áreas de interesse são: Engenharia de Software e
-          Visualização de Informação e Científica.
+          Prudente] em 2020. Já foi bolsista FAPESP TT-IV no projeto Tecnologia
+          GNSS no suporte à Navegação Aérea. Já foi programador full-stack WEB,
+          com ênfase em tecnologias da stack JavaScript (NodeJS e ReactJS) em
+          uma empresa de desenvolvimento. Tem experiência na área de Ciência da
+          Computação, com ênfase em Banco de Dados e Engenharia de Software,
+          tendo já atuado na área como Programador, incluindo participação em um
+          projeto de sistema institucional da Unesp. Sua principais áreas de
+          interesse são: Engenharia de Software e Visualização de Informação e
+          Científica. Atualmente é Frontend Engineer na Inspectral.
         </p>
       </section>
       <section>
+        <a href="https://www.linkedin.com/in/renan-pereira-biazini-1604a11bb">
+          Linkedin
+        </a>
+        <br />
         <a href="http://lattes.cnpq.br/3678045617529892">Currículo Lattes</a>
         <br />
         <a href="https://github.com/Biazza">GitHub</a>
